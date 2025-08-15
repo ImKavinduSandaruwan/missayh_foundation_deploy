@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Spark from "../assets/Spark.png";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },

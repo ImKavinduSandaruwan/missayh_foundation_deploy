@@ -1,5 +1,4 @@
 import React from 'react'
-import Spark from '../assets/Spark.png'
 import founder from '../assets/founder.jpg'
 import mission from '../assets/mission.jpg'
 import goal from '../assets/goal.png'
