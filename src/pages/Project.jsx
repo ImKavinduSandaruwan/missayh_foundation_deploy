@@ -1,5 +1,4 @@
 import React from "react";
-import Spark from "../assets/Spark.png";
 import people from "../assets/people.png";
 import whatsapp from "../assets/whatsapp.png";
 import hands from "../assets/hands.jpg";
